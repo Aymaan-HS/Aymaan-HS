@@ -51,7 +51,6 @@ Currently, I am balancing academics with hands-on development, using projects as
 <p>
   <img src="https://img.shields.io/badge/Wix-111?style=for-the-badge&logo=wix"/>
 </p>
----
 
 ## Profiles
 
