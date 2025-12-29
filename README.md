@@ -86,14 +86,4 @@ Currently, I am balancing academics with hands-on development, using projects as
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Senyuraa/Senyuraa/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Senyuraa&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
