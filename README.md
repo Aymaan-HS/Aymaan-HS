@@ -28,7 +28,7 @@ Currently, I am balancing academics with hands-on development, using projects as
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
 </div>
-
+ 
 ###
 
 <div align="center">
