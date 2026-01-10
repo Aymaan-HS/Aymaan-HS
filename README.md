@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently mastering **javascript and css**
 
-- 👨‍💻 Visit my portfolio website [https://aymaaan.netlify.app/](https://aymaaan.netlify.app/)
+- 👨‍💻 Visit my portfolio website **https://ayymaaann.github.io/**
 
 - 📫 How to reach me **aymaanworks@gmail.com**
  
