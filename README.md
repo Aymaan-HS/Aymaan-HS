@@ -9,13 +9,10 @@
 - 👨‍💻 Visit my portfolio website **https://ayymaaann.github.io/**
 
 - 📫 How to reach me **aymaanworks@gmail.com**
- 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+- 
+ <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ayymaaann&theme=radical" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -24,10 +21,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ayymaaann&theme=radical" />
-</p>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
