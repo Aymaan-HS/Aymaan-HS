@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <p align="center">
   <img src="banner.png" alt="Aymaan Banner" width="100%" />
 </p>
@@ -10,6 +9,3 @@
 - 👨‍💻 Visit my portfolio website **https://aymaan-HS.github.io/**  
    
 - 📫 How to reach me **aymaanworks@gmail.com**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
